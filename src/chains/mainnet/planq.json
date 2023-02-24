@@ -1,7 +1,7 @@
 {
     "chain_name": "planq",
-    "api": ["https://api.planq.maplesyrup-node.xyz"],
-    "rpc": ["https://rpc.planq.maplesyrup-node.xyz/"],
+    "api": ["https://api.planq.nodestake.top"],
+    "rpc": ["https://rpc.planq.nodestake.top"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "60",
