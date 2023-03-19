@@ -1,0 +1,19 @@
+{
+    "chain_name": "coreum",
+    "api": ["https://api-coreum-testnet.sxlzptprjkt.xyz"],
+    "rpc": ["https://rpc-coreum-testnet.sxlzptprjkt.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "testcore",
+    "logo": "/logos/coreum.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "utestcore",
+        "symbol": "testcore",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/coreum.png"
+    }]
+}
