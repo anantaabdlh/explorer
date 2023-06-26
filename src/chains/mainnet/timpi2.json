@@ -12,7 +12,7 @@
     "assets": [{
         "base": "utimpiTN",
         "symbol": "timpitn",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/timpi.png"
     }]
