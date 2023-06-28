@@ -1,5 +1,5 @@
 {
-    "chain_name": "OASIS-3",
+    "chain_name": "NORIA",
     "api": ["https://noria-testnet-api.polkachu.com"],
     "rpc": ["https://noria-testnet-rpc.polkachu.com"],
     "snapshot_provider": "",
