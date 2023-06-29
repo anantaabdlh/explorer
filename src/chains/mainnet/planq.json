@@ -1,7 +1,7 @@
 {
     "chain_name": "Planq-Mainnet",
-    "api": ["https://api.planq.nodestake.top"],
-    "rpc": ["https://rpc.planq.nodestake.top"],
+    "api": ["https://api.planq.nodestake.top","https://planq-api.polkachu.com"],
+    "rpc": ["https://rpc.planq.nodestake.top","https://planq-rpc.polkachu.com"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "60",
