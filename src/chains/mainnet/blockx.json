@@ -1,0 +1,19 @@
+{
+    "chain_name": "BlockX-Testnet",
+    "api": ["https://api-t.blockx.nodestake.top"],
+    "rpc": ["https://rpc-t.blockx.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "bcx",
+    "logo": "/logos/blockx.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "abcx",
+        "symbol": "bcx",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/blockx.jpg"
+    }]
+}
