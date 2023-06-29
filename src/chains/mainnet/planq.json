@@ -1,5 +1,5 @@
 {
-    "chain_name": "planq",
+    "chain_name": "Planq-Mainnet",
     "api": ["https://api.planq.nodestake.top"],
     "rpc": ["https://rpc.planq.nodestake.top"],
     "snapshot_provider": "",
