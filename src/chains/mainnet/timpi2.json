@@ -1,5 +1,5 @@
 {
-    "chain_name": "TimpiChainTN2-Testnet",
+    "chain_name": "Timpi-Testnet",
     "api": ["https://testnet-timpi-api.konsortech.xyz"],
     "rpc": ["https://testnet-timpi-rpc.konsortech.xyz"],
     "snapshot_provider": "",
