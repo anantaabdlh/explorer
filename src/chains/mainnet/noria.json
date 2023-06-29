@@ -1,5 +1,5 @@
 {
-    "chain_name": "NORIA",
+    "chain_name": "NORIA-Testnet",
     "api": ["https://noria-testnet-api.polkachu.com"],
     "rpc": ["https://noria-testnet-rpc.polkachu.com"],
     "snapshot_provider": "",
