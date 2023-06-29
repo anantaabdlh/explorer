@@ -3,17 +3,18 @@
     "api": ["https://composable-api.polkachu.com"],
     "rpc": ["https://composable-rpc.polkachu.com"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.3",
-    "coin_type": "60",
-    "min_tx_fee": "5000000000000000",
-    "addr_prefix": "pica",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "banksy",
     "logo": "/logos/composable.png",
-    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
-    "assets": [{
-        "base": "upica",
-        "symbol": "pica",
-        "exponent": "18",
-        "coingecko_id": "",
+    "assets": [
+      {
+        "base": "ppica",
+        "symbol": "PICA",
+        "exponent": "12",
         "logo": "/logos/composable.png"
-    }]
-}
+      }
+    ]
+  }
+  
