@@ -1,0 +1,19 @@
+{
+    "chain_name": "Arkeo-Testnet",
+    "api": ["https://arkeo-testnet-api.polkachu.com/"],
+    "rpc": ["https://arkeo-testnet-rpc.polkachu.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.1",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "arkeo",
+    "logo": "/logos/.png",
+    "assets": [
+      {
+        "base": "uarkeo",
+        "symbol": "PICA",
+        "exponent": "12",
+        "logo": "/logos/.png"
+      }
+    ]
+  }
