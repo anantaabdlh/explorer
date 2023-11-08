@@ -1,0 +1,19 @@
+{
+    "chain_name": "Mantra-Testnet",
+    "api": ["https://mantra-testnet-rpc.stake-town.com/"],
+    "rpc": ["https://mantra-testnet-api.stake-town.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "aum",
+    "logo": "/logos/mantra.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "uaum",
+        "symbol": "aum",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/mantra.jpg"
+    }]
+}
