@@ -1,0 +1,19 @@
+{
+    "chain_name": "Pryzm-Testnet",
+    "api": ["https://pryzm-testnet-api.polkachu.com"],
+    "rpc": ["https://pryzm-testnet-rpc.polkachu.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "pryzm",
+    "logo": "/logos/pryzm.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "upryzm",
+        "symbol": "pryzm",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/pryzm.jpg"
+    }]
+}
