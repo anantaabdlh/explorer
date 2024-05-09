@@ -1,6 +1,6 @@
 {
     "chain_name": "0gLabs-Testnet",
-    "api": ["http://95.216.7.84:33317"],
+    "api": ["http://95.216.7.84:33317","https://testnet.zero-gravity.api.liveraven.net"],
     "rpc": ["http://95.216.7.84:33657"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
