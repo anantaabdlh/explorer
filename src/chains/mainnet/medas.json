@@ -1,0 +1,19 @@
+{
+    "chain_name": "Medas",
+    "api": ["https://api-medas.vinjan.xyz"],
+    "rpc": ["https://rpc-medas.vinjan.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "118",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "MEDAS",
+    "logo": "/logos/medas.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "umedas",
+        "symbol": "medas",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/medas.jpg"
+    }]
+}
