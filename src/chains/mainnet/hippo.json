@@ -12,7 +12,7 @@
     "assets": [{
         "base": "ahp",
         "symbol": "hp",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/hippo.png"
     }]
