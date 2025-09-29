@@ -1,0 +1,19 @@
+{
+    "chain_name": "Hippo Protocol",
+    "api": ["https://api-hippo.sychonix.com"],
+    "rpc": ["https://rpc-hippo.sychonix.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "118",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "HP",
+    "logo": "/logos/hippo.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "ahp",
+        "symbol": "hp",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/hippo.png"
+    }]
+}
