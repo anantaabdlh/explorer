@@ -1,0 +1,19 @@
+{
+    "chain_name": "Tellor",
+    "api": ["https://mainnet.tellorlayer.com"],
+    "rpc": ["https://mainnet.tellorlayer.com/rpc"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "118",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "tellor",
+    "logo": "/logos/tellor.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "loya",
+        "symbol": "loya",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/tellor.png"
+    }]
+}
