@@ -12,7 +12,7 @@
     "assets": [{
         "base": "CGT",
         "symbol": "CGT",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/cycis.jpg"
     }]
