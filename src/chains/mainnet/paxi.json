@@ -1,7 +1,7 @@
 {
     "chain_name": "Paxi",
-    "api": ["https://api-paxi.vinjan.xyz"],
-    "rpc": ["https://rpc-paxi.vinjan.xyz"],
+    "api": ["https://api-paxi.vinjan-inc.com"],
+    "rpc": ["https://rpc-paxi.vinjan-inc.com"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "118",
