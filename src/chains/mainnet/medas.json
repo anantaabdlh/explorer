@@ -1,7 +1,7 @@
 {
     "chain_name": "Medas",
-    "api": ["https://api-medas.vinjan.xyz"],
-    "rpc": ["https://rpc-medas.vinjan.xyz"],
+    "api": ["https://api-medas.vinjan-inc.com"],
+    "rpc": ["https://rpc-medas.vinjan-inc.com"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "118",
