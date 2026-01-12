@@ -1,7 +1,7 @@
 {
     "chain_name": "Dungeonchain",
-    "api": ["https://api-dungeon.vinjan.xyz"],
-    "rpc": ["https://rpc-dungeon.vinjan.xyz"],
+    "api": ["https://api-dungeon.sychonix.com"],
+    "rpc": ["https://rpc-dungeon.sychonix.com"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "118",
